@@ -1,0 +1,6 @@
+-. Download GitBash.exe and Install
+-. Open the file DownloadDependences.sh for download Libimobiledevice
+-. This folder is for example only
+-. Open the file CreateFolder to create your folder
+-. Put all the files to that folder taking as an example those of the example folder
+-. Once ready run the terminal called Reactivate

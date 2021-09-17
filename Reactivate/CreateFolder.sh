@@ -1,0 +1,1 @@
+UDID=$(ideviceinfo | grep -w UniqueDeviceID | awk '{printf $NF}'); mkdir -p $UDID/
